@@ -14,7 +14,7 @@ The eminent cultural day is divided by two section:
 In these events, scientifics topics are getting tackled, from debats, conferences to exposition, and so on and so forth. 
 A lot of surprises will be added in the scientifics events this year.
 
-**Culinary Taste** : Participants will have 1 - 1h30 to taste and enjoy them tasty culinary food from comoros islands such as cassava, ambrevade, sago, yams, etc
+**Culinary Taste** : Participants will have at least one hour to taste and enjoy them tasty culinary foods from comoros islands such as cassavas, ambrevades, sagos, yams, etc
   * Cultural events (15h30 - 21h00 at Complex Al Houriya Fez), such as traditional danses, costumes, models, traditional miss & misters are presented by differents comorians studying in Morocco from differents cities (Marrakech, Tanger, Kenitra, Rabat ...) .
   
 To close the day, a dancing party will be hosted the whole night for the night owls.
