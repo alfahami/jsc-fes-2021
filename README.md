@@ -9,9 +9,10 @@ Since 2002, the JC aims to promote the Comorian culture as a whole with our dear
 ### 18TH EDITION (Comorian day in Morocco)
 <p style="text-align: justify">The year of <b>2020</b> marks the 18th edition of the cultural comorian day in the kingdom of Morocco. Comorians who are studying in the imperial city of the kingdom, Fes, took the challenge to organize, prepare and host the event. <br></p>
 
-The eminent cultural day is divided by two section: \
+The eminent cultural day is divided by two section: 
   * Scientific events (9h30 - 12h30 at Medecine Faulty of Fez), which are organize and prepared by the scientific commission from comorians students in Fez.
-In these events, scientifics topics are getting tackled, from debats, conferences to exposition, and so on and so forth.\
+In these events, scientifics topics are getting tackled, from debats, conferences to exposition, and so on and so forth. 
+A lot of surprises will be added in the scientifics events this year.
 
 **Culinary Taste** : Participants will have 1 - 1h30 to taste and enjoy them tasty culinary food from comoros islands such as cassava, ambrevade, sago, yams, etc
   * Cultural events (15h30 - 21h00 at Complex Al Houriya Fez), such as traditional danses, costumes, models, traditional miss & misters are presented by differents comorians studying in Morocco from differents cities (Marrakech, Tanger, Kenitra, Rabat ...) .
