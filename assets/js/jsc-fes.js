@@ -1,6 +1,6 @@
 (function() {
   if ($) {
-    // Basice Code, keep it
+    // Basice Code keep it
     $(document).ready(function() {
       $(document).on("scroll", onScroll);
 
@@ -27,7 +27,7 @@
       });
     });
 
-    // Class or ID For Selection
+    // Use Your Class or ID For Selection
 
     function onScroll() {
       var scrollPos = $(document).scrollTop() + 60;
@@ -181,7 +181,7 @@ $("#countdown").countdown(
 
   function() {
     // This will run when the countdown ends
-    alert("Smile you are at the cultural day!");
+    alert("We're Out Now");
   }
 );
 
