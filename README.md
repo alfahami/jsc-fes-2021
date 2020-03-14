@@ -15,7 +15,7 @@ In these events, scientifics topics are getting tackled, from debats, conference
 A lot of surprises will be added in the scientifics events this year.
 
 **Culinary Taste** : Participants will have at least one hour to taste and enjoy them tasty culinary foods from comoros islands such as cassavas, ambrevades, sagos, yams, etc
-  * Cultural events (15h30 - 21h00 at Complex Al Houriya Fez), such as traditional danses, costumes, models, traditional miss & misters are presented by differents comorians studying in Morocco from differents cities (Marrakech, Tanger, Kenitra, Rabat ...) .
+  * Cultural events (15h30 - 21h00 at Complex Al Houriya Fez), such as traditional danses, costumes, models, traditional miss & misters are presented by differents comorians studying in Morocco coming from differents cities of the kingdom (Marrakech, Tanger, Kenitra, Rabat ...) .
   
 To close the day, a dancing party will be hosted the whole night for the night owls.
 For more details check the official website (Coming very soon) of the event.
