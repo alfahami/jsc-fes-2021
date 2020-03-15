@@ -3,7 +3,7 @@
 ### History
 
 <p style="text-align: justify">The association of Comorians studying in Morocco (ACEM) is an association which fits into the student, social, scientific, cultural and also religious framework. ACEM organizes scientific and cultural activities every year in different city of the kingdom, with the aim of making all Comorian students throughout the kingdom as aware as possible. Among these activities, there is a scientific and cultural day. The latter is the most eminent of all by its scope and importance to everyone.<br>
-Since 2002, the Scientific and Cultural day aims to promote the Comorian culture as a whole with our dear host country (Morocco), as well as with other sister communities. Aware of the major role played by the culture of a country abroad, this activity will allow us to exhibit the Comorian cultural heritage. This eminent activity will be an opportunity for Comorian students in Morocco to exhibit the Comorian custom, through, clothing, traditional dances, cooking, crafts, etc.
+Since 2002, the Scientific and Cultural day aims to promote the Comorian culture as a whole with our dear host country (Morocco), as well as with other sister communities. Aware of the major role played by the culture of a country abroad, this activity will allow us to exhibit the Comorian cultural heritage. This eminent activity will be an opportunity for Comorians students in Morocco to exhibit the Comorian custom, through, clothing, traditional dances, cooking, crafts, etc.
 </p>
 
 ### 18TH EDITION (Comorian day in Morocco)
