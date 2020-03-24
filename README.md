@@ -21,11 +21,11 @@ To close the day, a dancing party will be hosted the whole night for the night o
 For more details check the official website (Coming very soon) of the event.
 
  ### Author
- [AL-FAHAMI TOIHIR](https://alfahami.github.io/ "Fahmi's resume and protfolio page")
+ [AL-FAHAMI TOIHIR](https://alfahami.github.io/ "Resume")
  
- [FACULUTY OF SCIENCE, IBN TOFAIL UNIVERSITY](http://www.fsk.uit.ac.ma/ "Faculty Site")
+ [ACEM FEZ](http://www.acemfes.com "Coming Soon")
  
- DEPARTMENT OF INFORMATICS AND MATHEMATICS
+ COMPUTER SCIENCES & APPLIED MATHEMATICS CLUB
  
  ### Licence: 
  This porject is under the [MIT Licence](https://opensource.org/licenses/MIT).
