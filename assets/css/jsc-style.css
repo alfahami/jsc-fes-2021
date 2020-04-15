@@ -49,6 +49,10 @@ body {
   background: #e8e8e8;
 }
 
+img {
+  width: 100%;
+}
+
 /* Utility classes */
 .l-heading {
   text-transform: uppercase;
@@ -243,7 +247,6 @@ section {
   color: #f4f4f4;
   background: none;
 }
-
 
 .jsc-navlink #left-nav.item-nav ul li a.active {
   color: #f4f4f4;
@@ -1082,7 +1085,6 @@ h4.fonction {
 
 #sponsors h1.m-heading {
   border-bottom: solid 2px #66d37e;
- 
 }
 #sponsors .sponsors {
   display: flex;
