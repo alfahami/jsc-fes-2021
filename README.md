@@ -12,7 +12,7 @@ Since 2002, the Scientific and Cultural day aims to promote the Comorian culture
 <p style="text-align: justify">The year of <b>2020</b> marks the 18th edition of the cultural comorian day in the kingdom of Morocco. Comorians who are studying in the imperial city of the kingdom, Fes, took the challenge to organize, prepare and host the event. <br></p>
 
 The eminent cultural day is divided by two section: 
-  * Scientific events (9h30 - 12h30 at Medecine Faulty of Fez), which are organize and prepared by the scientific commission from comorians students in Fez.
+  * Scientific events (9h30 - 12h30 at Medecine Faculty of Fez), which are organize and prepared by the scientific commission from comorians students in Fez.
 In these events, scientifics topics are getting tackled, from debats, conferences to exposition, and so on and so forth. 
 A lot of surprises will be added in the scientifics events this year.
 
