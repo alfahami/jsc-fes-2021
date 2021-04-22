@@ -1,6 +1,6 @@
 ## Scientific and Cultural day of the comorian student in Morocco
 
-### [Production Live Demo](https://alfahami.github.io/acemfes/jsc-fes-2020/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
+### [Production Live Demo](http://acem.tech/jsc-fes-2021/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
 
 ### History
 
