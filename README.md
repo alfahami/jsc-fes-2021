@@ -1,6 +1,8 @@
 ## Scientific and Cultural day of the comorian student in Morocco
 
-### [Production Live Demo](http://acem.tech/jsc-fes-2021/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
+This repo is transfered to [acemtech](http://acemtech.org/wsc-fes-2021/) and no longer receives supports and/or updates
+
+### [Production Live Demo](http://acemtech.org/jsc-fes-2021/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
 
 ### History
 
